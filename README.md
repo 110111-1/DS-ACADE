@@ -10,3 +10,4 @@ Analyse exploratoire des données de la banque mondiale dans le cadre du projet 
 ***
 ![PREDICTION_1_Synthese](https://user-images.githubusercontent.com/53265033/203131194-0bdfc215-e84d-43aa-8d0c-88193dad1687.jpg)
 ***
+![_MAP_2_Pays_indicateurs](https://user-images.githubusercontent.com/53265033/203131497-a2664666-a7e9-4c14-ad99-3aa3e04c1a37.jpg)
